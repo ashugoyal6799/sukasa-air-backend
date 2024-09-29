@@ -137,4 +137,5 @@ Image URL shows the report recieved on terminal while running the test case: htt
 
 
 ## API Documentation
-Please find the url for the API documentation: https://drive.google.com/file/d/1lpi5mvnEiVFNPqyuQtGFnVUr3RmL-u1C/view?usp=sharing 
+The complete API documentation is hosted on SwaggerHub. You can access it using the following link: [SwaggerHub API Documentation](<https://app.swaggerhub.com/apis/ASHUG6799/seat-reservation_api/1.0.0>).
+
