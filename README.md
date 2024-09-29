@@ -132,6 +132,8 @@ This project implements a seat reservation system for **Sukasa Air**, covering e
    - The code is written with scalability in mind, allowing easy integration of additional features, such as payment systems or flight scheduling.
 
 ## Test Coverage Report
+The project achieved a high test coverage with **92.47%** of statements, **84.09%** of branches, **86.2%** of functions, and **92.77%** of lines covered, ensuring robust testing and reliability of the codebase.
+
 Deatiled html report can be found on `test-report.html` at root directory of the project. 
 Image URL shows the report recieved on terminal while running the test case: https://drive.google.com/file/d/1jZImAxJPAtyjZQGUutN9Z4kNnBG-VDJL/view?usp=sharing
 
