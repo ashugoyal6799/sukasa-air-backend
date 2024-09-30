@@ -56,8 +56,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository and Navigate to the Project Directory**
 
      ```bash
-     git clone https://github.com/your-username/airline-reservation-system.git
-     cd airline-reservation-system
+     git clone https://github.com/ashugoyal6799/sukasa-air-backend.git
+     cd sukasa-air-backend
      ```
 2. **Install Dependencies**
      ```bash
