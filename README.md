@@ -72,11 +72,14 @@ Before you begin, ensure you have met the following requirements:
     JWT_SECRET=your_jwt_secret_key
     ADMIN_EMAILS=admin@sukasaair.com
     ```
-4. **Start Mongodb server**
+4. **Start MongoDB server**
    Ensure MongoDB is running. As we are using transactions, we need a MongoDB replica set. You have two options:
-    a. Run a local MongoDB replica set
-    b. Use a MongoDB cloud connection string (recommended for simplicity)
-  Start your MongoDB server based on your chosen option.
+   
+   a. Run a local MongoDB replica set  
+   b. Use a MongoDB cloud connection string (recommended for simplicity)
+
+   Start your MongoDB server based on your chosen option.
+
    
 6. **Run the Application**
      ```bash
